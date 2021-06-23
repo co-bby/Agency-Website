@@ -1,0 +1,5 @@
+# Agency-Website
+This is an Agency website which was written in HTML , CSS and Javascript
+This agency website was written in HTML, CSS, and Vanilla JavaScript. The primary color of this page was inspired by Repicture.com.  It has four pages. Each page has a navigation tab that is in a fixed position to navigate across all pages. The navigation tab also has social media tab. The font of this website is Poppins and has a fallback font of san-serif.
+
+The homepage contains an image and a welcome which is displayed in flex. On screens that have a width less than 1068 pixels, the image does not show. The services page is displayed in a grid with 3 columns and changes to 2  on 1068 pixels width screen and 1 column on screen  768 pixels width screen. Each service has a  border shadow when you hover on it. The work page is also displayed in a grid and has the same columns as the services page. Each box on the work page has a box shadow when you hover on it. The contact page has an inquiry form and an address section which is displayed in flex.  The flex-direction is rowed by default but changes to a column on a 1068 pixels width screen.
